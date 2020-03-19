@@ -1,0 +1,113 @@
+﻿sample,short_name,strain,pFE,pFA,media,condition,measured_OD,dilution_factor,OD
+AF-23-g1,pos,CAfree,EGFP,HCAII,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.635,10,6.35
+AF-23-g2,pos,CAfree,EGFP,HCAII,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.551,10,5.51
+AF-23-g3,pos,CAfree,EGFP,HCAII,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.563,10,5.63
+AF-23-g4,pos,CAfree,EGFP,HCAII,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.617,10,6.17
+AF-23-g5,ls/AGFP,CCMB1,lsPrk,AGFP,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.423,10,4.23
+AF-23-g6,ls/AGFP,CCMB1,lsPrk,AGFP,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.464,10,4.64
+AF-23-g7,ls/AGFP,CCMB1,lsPrk,AGFP,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.442,10,4.42
+AF-23-g8,ls/AGFP,CCMB1,lsPrk,AGFP,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.429,10,4.29
+AF-23-g9,ls/pCCM 13.6,CCMB1,lsPrk,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.527,10,5.27
+AF-23-g10,ls/pCCM 13.6,CCMB1,lsPrk,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.464,10,4.64
+AF-23-g11,ls/pCCM 13.6,CCMB1,lsPrk,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.479,10,4.79
+AF-23-g12,ls/pCCM 13.6,CCMB1,lsPrk,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.448,10,4.48
+AF-23-g13,full CCM pre,CCMB1,pCB pre,pCCM pre,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.347,10,3.47
+AF-23-g14,full CCM pre,CCMB1,pCB pre,pCCM pre,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.48,10,4.8
+AF-23-g15,full CCM pre,CCMB1,pCB pre,pCCM pre,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.434,10,4.34
+AF-23-g16,full CCM pre,CCMB1,pCB pre,pCCM pre,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.469,10,4.69
+AF-23-g17,full CCM post,CCMB1,pCB 13.6,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.295,10,2.95
+AF-23-g18,full CCM post,CCMB1,pCB 13.6,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.29,10,2.9
+AF-23-g19,full CCM post,CCMB1,pCB 13.6,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.277,10,2.77
+AF-23-g20,full CCM post,CCMB1,pCB 13.6,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.302,10,3.02
+AF-23-g21,csos2 dNTD,CCMB1,pCB 13.6 dNTD S2,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.34,10,3.4
+AF-23-g22,csos2 dNTD,CCMB1,pCB 13.6 dNTD S2,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.408,10,4.08
+AF-23-g23,csos2 dNTD,CCMB1,pCB 13.6 dNTD S2,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.342,10,3.42
+AF-23-g24,csos2 dNTD,CCMB1,pCB 13.6 dNTD S2,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.29,10,2.9
+AF-23-g25,cbbL Y72R,CCMB1,pCB 13.6 cbbL Y72R,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.312,10,3.12
+AF-23-g26,cbbL Y72R,CCMB1,pCB 13.6 cbbL Y72R,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.441,10,4.41
+AF-23-g27,cbbL Y72R,CCMB1,pCB 13.6 cbbL Y72R,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.48,10,4.8
+AF-23-g28,cbbL Y72R,CCMB1,pCB 13.6 cbbL Y72R,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.307,10,3.07
+AF-23-g29,csosCA C173S,CCMB1,pCB 13.6 csosCA C173S,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.477,10,4.77
+AF-23-g30,csosCA C173S,CCMB1,pCB 13.6 csosCA C173S,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.392,10,3.92
+AF-23-g31,csosCA C173S,CCMB1,pCB 13.6 csosCA C173S,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.379,10,3.79
+AF-23-g32,csosCA C173S,CCMB1,pCB 13.6 csosCA C173S,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.356,10,3.56
+AF-23-g33,dcsos4AB,CCMB1,pCB 13.6 dcsos4AB,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.341,10,3.41
+AF-23-g34,dcsos4AB,CCMB1,pCB 13.6 dcsos4AB,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.255,10,2.55
+AF-23-g35,dcsos4AB,CCMB1,pCB 13.6 dcsos4AB,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.28,10,2.8
+AF-23-g36,dcsos4AB,CCMB1,pCB 13.6 dcsos4AB,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.467,10,4.67
+AF-23-g37,DabA1-,CCMB1,pCB 13.6,pCCM 13.6 DabA1-,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.325,10,3.25
+AF-23-g38,DabA1-,CCMB1,pCB 13.6,pCCM 13.6 DabA1-,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.41,10,4.1
+AF-23-g39,DabA1-,CCMB1,pCB 13.6,pCCM 13.6 DabA1-,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.442,10,4.42
+AF-23-g40,DabA1-,CCMB1,pCB 13.6,pCCM 13.6 DabA1-,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.36,10,3.6
+AF-23-g41,cbbQ-,CCMB1,pCB 13.6,pCCM 13.6 cbbQ-,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.433,10,4.33
+AF-23-g42,cbbQ-,CCMB1,pCB 13.6,pCCM 13.6 cbbQ-,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.374,10,3.74
+AF-23-g43,cbbQ-,CCMB1,pCB 13.6,pCCM 13.6 cbbQ-,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.645,10,6.45
+AF-23-g44,cbbQ-,CCMB1,pCB 13.6,pCCM 13.6 cbbQ-,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.413,10,4.13
+AF-23-g45,dacRAF,CCMB1,pCB 13.6,pCCM 13.6 dacRAF,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.372,10,3.72
+AF-23-g46,dacRAF,CCMB1,pCB 13.6,pCCM 13.6 dacRAF,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.441,10,4.41
+AF-23-g47,dacRAF,CCMB1,pCB 13.6,pCCM 13.6 dacRAF,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.334,10,3.34
+AF-23-g48,dacRAF,CCMB1,pCB 13.6,pCCM 13.6 dacRAF,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.389,10,3.89
+AF-23-g49,lsK194M/AGFP,CCMB1,lsPrk K194M,AGFP,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.002,10,0.02
+AF-23-g50,lsK194M/AGFP,CCMB1,lsPrk K194M,AGFP,m9 gly 1/2 cm aTc 100 nm,10% CO2,0,10,0
+AF-23-g51,lsK194M/AGFP,CCMB1,lsPrk K194M,AGFP,m9 gly 1/2 cm aTc 100 nm,10% CO2,0,10,0
+AF-23-g52,lsK194M/AGFP,CCMB1,lsPrk K194M,AGFP,m9 gly 1/2 cm aTc 100 nm,10% CO2,0,10,0
+AF-23-g53,full CCM K194M,CCMB1,pCB 13.6 K194M,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0.02,10,0.2
+AF-23-g54,full CCM K194M,CCMB1,pCB 13.6 K194M,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0,10,0
+AF-23-g55,full CCM K194M,CCMB1,pCB 13.6 K194M,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0,10,0
+AF-23-g56,full CCM K194M,CCMB1,pCB 13.6 K194M,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,10% CO2,0,10,0
+AF-23-g1,pos,CAfree,EGFP,HCAII,m9 gly 1/2 cm aTc 100 nm,ambient,0.488,10,4.88
+AF-23-g2,pos,CAfree,EGFP,HCAII,m9 gly 1/2 cm aTc 100 nm,ambient,0.364,10,3.64
+AF-23-g3,pos,CAfree,EGFP,HCAII,m9 gly 1/2 cm aTc 100 nm,ambient,0.385,10,3.85
+AF-23-g4,pos,CAfree,EGFP,HCAII,m9 gly 1/2 cm aTc 100 nm,ambient,0.435,10,4.35
+AF-23-g5,ls/AGFP,CCMB1,lsPrk,AGFP,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g6,ls/AGFP,CCMB1,lsPrk,AGFP,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g7,ls/AGFP,CCMB1,lsPrk,AGFP,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g8,ls/AGFP,CCMB1,lsPrk,AGFP,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g9,ls/pCCM 13.6,CCMB1,lsPrk,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g10,ls/pCCM 13.6,CCMB1,lsPrk,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g11,ls/pCCM 13.6,CCMB1,lsPrk,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g12,ls/pCCM 13.6,CCMB1,lsPrk,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g13,full CCM pre,CCMB1,pCB pre,pCCM pre,m9 gly 1/2 cm aTc 100 nm,ambient,0.139,10,1.39
+AF-23-g14,full CCM pre,CCMB1,pCB pre,pCCM pre,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g15,full CCM pre,CCMB1,pCB pre,pCCM pre,m9 gly 1/2 cm aTc 100 nm,ambient,0.314,10,3.14
+AF-23-g16,full CCM pre,CCMB1,pCB pre,pCCM pre,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g17,full CCM post,CCMB1,pCB 13.6,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0.448,10,4.48
+AF-23-g18,full CCM post,CCMB1,pCB 13.6,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0.403,10,4.03
+AF-23-g19,full CCM post,CCMB1,pCB 13.6,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0.321,10,3.21
+AF-23-g20,full CCM post,CCMB1,pCB 13.6,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0.371,10,3.71
+AF-23-g21,csos2 dNTD,CCMB1,pCB 13.6 dNTD S2,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0.001,10,0.01
+AF-23-g22,csos2 dNTD,CCMB1,pCB 13.6 dNTD S2,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g23,csos2 dNTD,CCMB1,pCB 13.6 dNTD S2,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g24,csos2 dNTD,CCMB1,pCB 13.6 dNTD S2,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g25,cbbL Y72R,CCMB1,pCB 13.6 cbbL Y72R,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g26,cbbL Y72R,CCMB1,pCB 13.6 cbbL Y72R,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g27,cbbL Y72R,CCMB1,pCB 13.6 cbbL Y72R,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g28,cbbL Y72R,CCMB1,pCB 13.6 cbbL Y72R,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g29,csosCA C173S,CCMB1,pCB 13.6 csosCA C173S,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g30,csosCA C173S,CCMB1,pCB 13.6 csosCA C173S,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g31,csosCA C173S,CCMB1,pCB 13.6 csosCA C173S,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g32,csosCA C173S,CCMB1,pCB 13.6 csosCA C173S,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g33,dcsos4AB,CCMB1,pCB 13.6 dcsos4AB,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g34,dcsos4AB,CCMB1,pCB 13.6 dcsos4AB,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g35,dcsos4AB,CCMB1,pCB 13.6 dcsos4AB,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g36,dcsos4AB,CCMB1,pCB 13.6 dcsos4AB,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g37,DabA1-,CCMB1,pCB 13.6,pCCM 13.6 DabA1-,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g38,DabA1-,CCMB1,pCB 13.6,pCCM 13.6 DabA1-,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g39,DabA1-,CCMB1,pCB 13.6,pCCM 13.6 DabA1-,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g40,DabA1-,CCMB1,pCB 13.6,pCCM 13.6 DabA1-,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g41,cbbQ-,CCMB1,pCB 13.6,pCCM 13.6 cbbQ-,m9 gly 1/2 cm aTc 100 nm,ambient,0.491,10,4.91
+AF-23-g42,cbbQ-,CCMB1,pCB 13.6,pCCM 13.6 cbbQ-,m9 gly 1/2 cm aTc 100 nm,ambient,0.415,10,4.15
+AF-23-g43,cbbQ-,CCMB1,pCB 13.6,pCCM 13.6 cbbQ-,m9 gly 1/2 cm aTc 100 nm,ambient,0.503,10,5.03
+AF-23-g44,cbbQ-,CCMB1,pCB 13.6,pCCM 13.6 cbbQ-,m9 gly 1/2 cm aTc 100 nm,ambient,0.475,10,4.75
+AF-23-g45,dacRAF,CCMB1,pCB 13.6,pCCM 13.6 dacRAF,m9 gly 1/2 cm aTc 100 nm,ambient,0.028,10,0.28
+AF-23-g46,dacRAF,CCMB1,pCB 13.6,pCCM 13.6 dacRAF,m9 gly 1/2 cm aTc 100 nm,ambient,0.062,10,0.62
+AF-23-g47,dacRAF,CCMB1,pCB 13.6,pCCM 13.6 dacRAF,m9 gly 1/2 cm aTc 100 nm,ambient,0.014,10,0.14
+AF-23-g48,dacRAF,CCMB1,pCB 13.6,pCCM 13.6 dacRAF,m9 gly 1/2 cm aTc 100 nm,ambient,0.515,10,5.15
+AF-23-g49,lsK194M/AGFP,CCMB1,lsPrk K194M,AGFP,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g50,lsK194M/AGFP,CCMB1,lsPrk K194M,AGFP,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g51,lsK194M/AGFP,CCMB1,lsPrk K194M,AGFP,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g52,lsK194M/AGFP,CCMB1,lsPrk K194M,AGFP,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g53,full CCM K194M,CCMB1,pCB 13.6 K194M,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g54,full CCM K194M,CCMB1,pCB 13.6 K194M,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g55,full CCM K194M,CCMB1,pCB 13.6 K194M,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
+AF-23-g56,full CCM K194M,CCMB1,pCB 13.6 K194M,pCCM 13.6,m9 gly 1/2 cm aTc 100 nm,ambient,0,10,0
