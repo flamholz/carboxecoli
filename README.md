@@ -1,6 +1,6 @@
 # Carbox*E. coli*
 
-Source code for data analysis and figures from "Functional reconstitution of a bacterial CO<sub>2</sub> concentrating mechanism in *E. coli*" by Avi I. Flamholz, Eli Dugan, Cecilia Blikstad, Shmuel Gleizer, Roee Ben-Nissan, Shira Amram, Niv Antonovsky, Sumedha Ravishankar, Elad Noor, Arren Bar-Even, Ron Milo, and David F. Savage. This codebase assumes you are running Python 3+ and have Jupyter Notebook and/or Jupyter Lab installed. 
+Source code for data analysis and figures from **Functional reconstitution of a bacterial CO<sub>2</sub> concentrating mechanism in** ***E. coli*** by Avi I. Flamholz, Eli Dugan, Cecilia Blikstad, Shmuel Gleizer, Roee Ben-Nissan, Shira Amram, Niv Antonovsky, Sumedha Ravishankar, Elad Noor, Arren Bar-Even, Ron Milo, and David F. Savage. This codebase assumes you are running Python 3+ and have Jupyter Notebook and/or Jupyter Lab installed. 
 
 ## Dependencies
 
@@ -26,5 +26,5 @@ The notebook titled `01_FBA_rubisco_flux_prediction` use Flux Balance Analysis t
 
 ## Generating Figures
 
-Each figure has an associated notebook - the titles begin with the appropriate figure number. Having installed all the dependencies and run the prerequisite scripts you should now be able to generate all the figures.
+Each figure has an associated notebook - the titles begin with the appropriate figure number. Having installed all the dependencies and run the prerequisite scripts you should now be able to generate all the figures. Figure 2 has no associated notebook because it is composed entirely of illustrations, images and text.
 
