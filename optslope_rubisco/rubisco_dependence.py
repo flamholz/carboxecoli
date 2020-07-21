@@ -16,7 +16,10 @@ from tqdm import tqdm
 
 
 def main(num_processes: int = 1) -> None:
-    """Calculate a DataFrame with slopes of all KOs on all CSs."""
+    """Calculate a DataFrame with slopes of all KOs on all CSs.
+
+    Saves a figure to FIGURE_PATH and output to FULL_RESULT_PATH.
+    """
 
     FULL_RESULT_PATH = f"optslope_rubisco/results.csv"
     FIGURE_PATH = f"optslope_rubisco/heatmap.pdf"
