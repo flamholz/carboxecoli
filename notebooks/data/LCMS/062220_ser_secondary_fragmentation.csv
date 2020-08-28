@@ -1,0 +1,12 @@
+sample,ser_f_plus0,ser_f_plus1,ser_f_plus2,ser_f_plus3,ser_plus2_carboxyl_12c_cts,ser_plus2_carboxyl_13c_cts,ser_plus2_carboxyl_f12c,sample_name,description
+AF 1,0,0,0.02096486,0.97903514,76,101,0.429378531,CAfree_bioreactor,"Control ambient air, bioreactor - CAfree:pFE-sfGFP+pFA-HCAII biological replicate 1"
+AF 2,0,0,0.02016447,0.97983553,85,90,0.485714286,CAfree_bioreactor,"Control ambient air, bioreactor - CAfree:pFE-sfGFP+pFA-HCAII biological replicate 2"
+AF 3,0,0,0.019697787,0.980302213,37,36,0.506849315,CAfree_bioreactor,"Control ambient air, bioreactor - CAfree:pFE-sfGFP+pFA-HCAII biological replicate 3"
+AF 4,0,0,0.019562716,0.980437284,86,127,0.403755869,CAfree_bioreactor,"Control ambient air, bioreactor - CAfree:pFE-sfGFP+pFA-HCAII biological replicate 4"
+AF 5,0,0,0.048579545,0.951420455,289,63,0.821022727,CCMB1_bioreactor,Experiment ambient air bioreactor - CCMB1:pCB'+pCCM' biological replicate 1
+AF 6,0.004513824,0.002633064,0.06695505,0.925898063,306,63,0.829268293,CCMB1_bioreactor,Experiment ambient air bioreactor - CCMB1:pCB'+pCCM' biological replicate 2
+AF 7,0,0.001258455,0.079439987,0.919301557,409,118,0.776091082,CCMB1_bioreactor,Experiment ambient air bioreactor - CCMB1:pCB'+pCCM' biological replicate 3
+AF 8,0,0,0.042846768,0.957153232,301,68,0.815718157,CCMB1_bioreactor,Experiment ambient air bioreactor - CCMB1:pCB'+pCCM' biological replicate 4
+75% 13C biomass,0.157482517,0.065454545,0.128951049,0.648111888,81,379,0.176086957,75% 13C biomass,75% 13C biomass
+50% 13C biomass,0.289587184,0.104436229,0.146333949,0.459642637,116,359,0.244210526,50% 13C biomass,50% 13C biomass
+25% 13C biomass,0.587842586,0.124385102,0.086788475,0.200983837,35,212,0.141700405,25% 13C biomass,25% 13C biomass
